@@ -10,7 +10,7 @@
 - In GitHub, you can create **repositories** to store project-related files or source code.  
 - All developers can connect to a repository to **integrate** and **manage code changes** easily.  
 - GitHub automatically monitors all changes, including:
-  - 👤 Who modified  
+  - 👤 Who modified
   - 📅 When modified  
   - 🧩 What was modified  
   - 📝 Why modified  
