@@ -2,7 +2,7 @@
 
 ---
 
-## 📘 What is GitHub?
+## 📘 What is GitHub?  
 
 > GitHub is a **platform** built on top of Git that allows developers to store, manage, and collaborate on code projects using version control.
 
