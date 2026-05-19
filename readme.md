@@ -3,7 +3,7 @@
 ---                                                                
                                                                         
 ## 📘 What is GitHub?  
-
+                          
 > GitHub is a **platform** built on top of Git that allows developers to store, manage, and collaborate on code projects using version control.
 
 - It is **version control software** that tracks and manages code changes.  
