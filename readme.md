@@ -5,7 +5,7 @@
 ## 📘 What is GitHub?  
                           
 > GitHub is a **platform** built on top of Git that allows developers to store, manage, and collaborate on code projects using version control.
-                                
+                                                        
 - It is **version control software** that tracks and manages code changes.  
 - In GitHub, you can create **repositories** to store project-related files or source code.  
 - All developers can connect to a repository to **integrate** and **manage code changes** easily.  
